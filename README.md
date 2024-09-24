@@ -71,7 +71,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
 
 ### Setting up the Frontend
 
-1. **Open a New Terminal**
+1. **Open a New Terminal:**
 
    ```bash
    cd frontend
